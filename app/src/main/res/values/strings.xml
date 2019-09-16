@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">LoginHomework</string>
+    <string name="textName">User name</string>
+    <string name="textPassword">Password</string>
+    <string name="textLoginFail">Login failed</string>
+    <string name="textNameIsInvalid">spot name is invalid</string>
+    <string name="textInsertFail">insert fail</string>
+    <string name="textInsertSuccess">insert successfully</string>
+    <string name="textNoNetwork">no network connection available</string>
+    <string name="textInvalidUserOrPassword">User name or password invalid</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="createName">帳號</string>
+    <string name="createPassword">密碼</string>
+    <string name="createUserName">姓名</string>
+
+</resources>
